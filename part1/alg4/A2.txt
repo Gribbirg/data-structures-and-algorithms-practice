@@ -1,0 +1,128 @@
+1 26430 Foreman, John Data Smart 10.7.2005 8.7.2013
+2 60937 Hawking, Stephen God Created the Integers 3.1.2003 9.8.2011
+3 97426 Dubner, Stephen Superfreakonomics 4.4.2001 24.10.2014
+4 47069 Said, Edward Orientalism 2.8.2003 28.2.2023
+5 41340 Vapnik, Vladimir Nature of Statistical Learning Theory, The 7.2.2007 3.12.2017
+6 94375 Menon, V P Integration of the Indian States 21.8.2003 8.6.2012
+7 85772 Mlodinow, Leonard Drunkard's Walk, The 11.7.2007 7.10.2015
+8 9360 Shih, Frank Image Processing & Mathematical Morphology 7.6.2009 9.6.2017
+9 35003 Konnikova, Maria How to Think Like Sherlock Holmes 13.11.2004 2.10.2015
+10 94931 Sebastian Gutierrez Data Scientists at Work 24.7.2005 8.6.2020
+11 36549 Vonnegut, Kurt Slaughterhouse Five 16.12.2008 10.7.2012
+12 15509 Villani, Cedric Birth of a Theorem 10.6.2010 1.6.2019
+13 76488 Sussman, Gerald Structure & Interpretation of Computer Programs 4.4.2006 19.1.2015
+14 64962 Eraly, Abraham Age of Wrath, The 20.7.2010 28.1.2017
+15 30389 Kafka, Frank Trial, The 19.5.2006 16.1.2019
+16 64832 Pratt, John Statistical Decision Theory' 19.10.2003 2.3.2020
+17 15891 Nisbet, Robert Data Mining Handbook 10.8.2007 28.3.2017
+18 23018 Wells, H. G. New Machiavelli, The 10.9.2006 13.12.2020
+19 12508 Heisenberg, Werner Physics & Philosophy 22.5.2002 4.8.2016
+20 28241 Oram, Andy Making Software 16.4.2009 28.10.2017
+21 44662 Tao, Terence Analysis, Vol I 8.1.2009 9.6.2018
+22 75595 Conway, Drew Machine Learning for Hackers 4.12.2010 24.6.2011
+23 2738 Silver, Nate Signal and the Noise, The 30.3.2009 23.9.2019
+24 69087 McKinney, Wes Python for Data Analysis 28.7.2001 16.7.2017
+25 20099 Cormen, Thomas Introduction to Algorithms 15.10.2008 9.3.2023
+26 54713 Deb, Siddhartha Beautiful and the Damned, The 30.1.2004 8.8.2012
+27 66585 Camus, Albert Outsider, The 27.2.2006 25.1.2021
+28 17868 Doyle, Arthur Conan Complete Sherlock Holmes, The - Vol I 6.3.2009 7.1.2021
+29 65302 Doyle, Arthur Conan Complete Sherlock Holmes, The - Vol II 11.7.2003 25.1.2018
+30 92954 Smith, Adam Wealth of Nations, The 20.8.2010 26.12.2016
+31 60556 Follett, Ken Pillars of the Earth, The 22.1.2008 1.4.2013
+32 3371 Hitler, Adolf Mein Kampf 14.11.2004 13.1.2012
+33 63630 Capra, Fritjof Tao of Physics, The 18.2.2003 13.6.2020
+34 50893 Feynman, Richard Surely You're Joking Mr Feynman 16.8.2008 18.6.2018
+35 86763 Hemingway, Ernest Farewell to Arms, A 23.10.2008 12.12.2013
+36 98556 Forsyth, Frederick Veteran, The 21.2.2010 9.2.2017
+37 47505 Archer, Jeffery False Impressions 29.12.2006 23.10.2017
+38 20949 Pausch, Randy Last Lecture, The 23.11.2008 10.7.2023
+39 20993 Rand, Ayn Return of the Primitive 13.9.2001 27.9.2017
+40 38815 Crichton, Michael Jurassic Park 22.9.2008 8.3.2016
+41 1155 Steinbeck, John Russian Journal, A 19.5.2007 17.5.2020
+42 24417 Poe, Edgar Allen Tales of Mystery and Imagination 24.10.2008 7.3.2018
+43 65614 Dubner, Stephen Freakonomics 10.11.2003 28.7.2017
+44 8362 Capra, Fritjof Hidden Connections, The 3.5.2002 18.1.2017
+45 14455 Durant, Will Story of Philosophy, The 7.5.2002 27.11.2016
+46 21644 Deshpande, P L Asami Asami 30.11.2008 29.8.2011
+47 98220 Steinbeck, John Journal of a Novel 10.6.2009 12.6.2011
+48 90972 Steinbeck, John Once There Was a War 26.7.2009 27.10.2020
+49 29582 Steinbeck, John Moon is Down, The 10.4.2002 7.7.2014
+50 32837 Grisham, John Brethren, The 29.8.2009 30.1.2020
+51 827 Naipaul, V. S. In a Free State 19.4.2005 5.12.2015
+52 87727 Heller, Joseph Catch 22 3.10.2005 20.8.2016
+53 39720 BBC Complete Mastermind, The 4.10.2009 20.1.2018
+54 23897 Dylan, Bob Dylan on Dylan 28.10.2005 18.12.2018
+55 68913 Gupta, Madan Soft Computing & Intelligent Systems 9.1.2007 14.9.2022
+56 31620 Stonier, Alfred Textbook of Economic Theory 1.7.2007 26.7.2018
+57 70744 Greene, W. H. Econometric Analysis 30.12.2008 28.5.2018
+58 45367 Bradsky, Gary Learning OpenCV 15.12.2010 8.4.2019
+59 75819 Tanenbaum, Andrew Data Structures Using C & C++ 19.1.2007 3.4.2016
+60 16383 Forsyth, David Computer Vision, A Modern Approach 21.10.2009 1.4.2022
+61 10018 Taub, Schilling Principles of Communication Systems 11.3.2010 10.5.2018
+62 33557 Kanetkar, Yashwant Let Us C 26.12.2001 4.6.2011
+63 72750 Stroud, Jonathan Amulet of Samarkand, The 16.8.2002 29.1.2017
+64 17450 Dostoevsky, Fyodor Crime and Punishment 23.8.2009 5.7.2021
+65 9150 Brown, Dan Angels & Demons 10.9.2003 20.7.2016
+66 18265 Sen, Amartya Argumentative Indian, The 3.12.2010 10.4.2023
+67 14357 Ghosh, Amitav Sea of Poppies 21.10.2006 5.7.2015
+68 31731 Sen, Amartya Idea of Justice, The 25.5.2007 15.6.2018
+69 23496 Hansberry, Lorraine Raisin in the Sun, A 29.3.2009 18.6.2012
+70 7826 Woodward, Bob All the President's Men 6.7.2004 11.8.2020
+71 78344 Archer, Jeffery Prisoner of Birth, A 19.10.2006 2.8.2012
+72 97708 Nayar, Kuldip Scoop! 25.4.2007 26.9.2016
+73 30894 Deshpande, Sunita Ahe Manohar Tari 24.8.2010 29.8.2011
+74 37430 Dalrymple, William Last Mughal, The 23.6.2009 23.3.2017
+75 2558 Various Social Choice & Welfare, Vol 39 No. 1 19.9.2009 28.8.2014
+76 77487 Deshpande, P L Radiowaril Bhashane & Shrutika 10.11.2006 6.7.2023
+77 84213 Deshpande, P L Gun Gayin Awadi 22.12.2006 5.6.2022
+78 70207 Deshpande, P L Aghal Paghal 3.8.2002 11.12.2014
+79 16690 Garg, Sanjay Maqta-e-Ghalib 6.11.2004 21.2.2023
+80 28894 nan Beyond Degrees 1.6.2007 19.6.2011
+81 13325 Kale, V P Manasa 13.8.2009 19.8.2022
+82 3620 Tharoor, Shashi India from Midnight to Milennium 3.5.2008 20.11.2011
+83 85956 nan World's Greatest Trials, The 18.8.2009 26.11.2020
+84 16392 Tharoor, Shashi Great Indian Novel, The 7.1.2008 22.4.2011
+85 49060 Lapierre, Dominique O Jerusalem! 5.6.2006 15.7.2012
+86 13579 Lapierre, Dominique City of Joy, The 8.10.2001 15.1.2014
+87 73588 Lapierre, Dominique Freedom at Midnight 4.10.2009 3.9.2016
+88 90738 Steinbeck, John Winter of Our Discontent, The 11.5.2004 23.5.2016
+89 21705 Russell, Bertrand On Education 19.4.2003 16.10.2011
+90 87894 Harris, Sam Free Will 22.11.2004 20.5.2018
+91 53001 Tharoor, Shashi Bookless in Baghdad 10.11.2005 11.10.2013
+92 27898 Gardner, Earle Stanley Case of the Lame Canary, The 8.9.2003 1.3.2020
+93 67589 Hawking, Stephen Theory of Everything, The 20.9.2009 2.5.2018
+94 71149 Drucker, Peter New Markets & Other Essays 2.5.2003 24.5.2021
+95 55806 Bodanis, David Electric Universe 13.9.2006 28.4.2023
+96 6152 Hugo, Victor Hunchback of Notre Dame, The 14.8.2004 14.11.2021
+97 85656 Steinbeck, John Burning Bright 4.11.2008 17.9.2011
+98 72552 Drucker, Peter Age of Discontuinity, The 21.6.2010 13.11.2017
+99 72178 Gordon, Richard Doctor in the Nude 15.3.2009 1.11.2019
+100 34513 Orwell, George Down and Out in Paris & London 16.5.2007 12.12.2013
+101 33309 Sen, Amartya Identity & Violence 4.3.2006 6.3.2020
+102 30582 Dalrymple, William Beyond the Three Seas 30.1.2002 29.4.2021
+103 97401 nan World's Greatest Short Stories, The 15.8.2008 26.12.2020
+104 86640 Iacoca, Lee Talking Straight 24.12.2001 20.6.2019
+105 18229 Maugham, William S Maugham's Collected Short Stories, Vol 3 28.5.2010 24.9.2017
+106 55360 Forsyth, Frederick Phantom of Manhattan, The 4.10.2001 5.3.2020
+107 55126 Maugham, William S Ashenden of The British Agent 22.6.2001 4.4.2016
+108 20114 Pirsig, Robert Zen & The Art of Motorcycle Maintenance 15.12.2007 5.9.2021
+109 19375 Fisk, Robert Great War for Civilization, The 23.6.2008 21.6.2012
+110 92375 Rand, Ayn We the Living 25.9.2006 27.12.2012
+111 27867 Aczel, Amir Artist and the Mathematician, The 28.1.2003 6.3.2012
+112 43026 Russell, Bertrand History of Western Philosophy 12.6.2010 9.8.2018
+113 71988 nan Selected Short Stories 18.4.2006 19.10.2013
+114 34148 Sen, Amartya Rationality & Freedom 13.5.2001 11.12.2016
+115 94925 Huntington, Samuel Clash of Civilizations and Remaking of the World Order 9.8.2007 20.5.2023
+116 41974 Capra, Fritjof Uncommon Wisdom 14.9.2006 2.9.2020
+117 73733 Bach, Richard One 18.9.2004 18.4.2017
+118 48298 nan Karl Marx Biography 1.6.2004 8.6.2022
+119 42999 Braithwaite To Sir With Love 14.6.2005 21.5.2023
+120 57856 Naipaul, V S Half A Life 6.6.2008 20.6.2012
+121 40960 Nehru, Jawaharlal Discovery of India, The 9.5.2004 28.3.2012
+122 16795 Deshpande, P L Apulki 2.2.2003 23.11.2022
+123 43716 Russell, Bertrand Unpopular Essays 30.7.2009 10.5.2020
+124 14368 Forsyth, Frederick Deceiver, The 13.12.2005 12.1.2022
+125 74108 Woodward, Bob Veil: Secret Wars of the CIA 22.11.2003 1.4.2023
+126 17092 Deshpande, P L Char Shabda 25.2.2007 13.7.2019
+127 41963 Durrell, Gerald Rosy is My Relative 4.2.2006 4.10.2018
+128 64685 Maugham, William S Moon and Sixpence, The 4.5.2003 5.7.2018
