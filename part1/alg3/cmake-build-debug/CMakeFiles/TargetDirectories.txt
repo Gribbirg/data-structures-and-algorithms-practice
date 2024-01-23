@@ -1,3 +1,0 @@
-C:/Users/gribk/CLionProjects/Alg/alg3/cmake-build-debug/CMakeFiles/alg3.dir
-C:/Users/gribk/CLionProjects/Alg/alg3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/gribk/CLionProjects/Alg/alg3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
